@@ -8,8 +8,58 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+.navbar
+  {
+  overflow: hidden;
+  
+  }
+
+.navbar a 
+  {
+    position: relative;
+    display: inline-block;
+    color:lime;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transition: 0.2s;
+  float: left;
+   float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  }
+
+.navbar a.right
+  {
+  float: right;
+  }
+  .navbar a.left
+  {
+  float: left;
+  }
+
+.navbar a:hover 
+  {
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  }
+   
 </style>
 <body class="w3-text-black" style="background-color:navy;">
+<div class="navbar">
+  <a href="#" style="color:tomato;">The LAxcorp Corporation</a>
+  <a href="https://saad-x.github.io/-/" class="left" style="color: white;">Info</a>
+  <a href="https://medium.com/@rakinsadaftab" style="text-align: left;">Medium</a>
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=BKGqgw8AAAAJ">Google Scholar</a>
+  <a href="https://t.me/rakinsadaftab">Telegram</a>
+</div>
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px; background-color: navy;">
@@ -22,6 +72,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
+          
           <img src="https://scontent.fdac5-1.fna.fbcdn.net/v/t1.0-0/s526x395/117310277_665372680731684_3517463811697085218_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_eui2=AeFiqRZT8otyguapg_UiqkjqVNLbkdOqNr1U0tuR06o2vZYHvcB_WuMggJUjysGfeczq_N__RTBfMlqC0YeZk0vL&_nc_ohc=pxvl7YJw-oIAX9UBBTp&_nc_ht=scontent.fdac5-1.fna&_nc_tp=7&oh=09172762da1ce31ab49fc274606a4902&oe=5F5721FC" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2 style="color: white;">Rakin Sad Aftab</h2>
@@ -30,7 +81,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Gazipur, Dhaka, Bangladesh</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>20-41991-1@student.aiub.edu</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://outlook.office.com/mail/inbox">20-41991-1@student.aiub.edu</a></p> 
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+880188-9046538</p>
           <hr>
 
@@ -80,20 +131,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        
         <div class="w3-container">
-          <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b>AIUB</b></h5>
+          <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b><a href="https://www.aiub.edu/" style="color: navy;">AIUB</a> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2020 - present</h6>
           <p>BSc in Computer Science(undergraduate)</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b>Dr. Mahbubur Rahman Mollah College</b></h5>
+          <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b><a href="http://www.dmrc.edu.bd/>" style="color: navy;">Dr. Mahbubur Rahman Mollah College</a> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 - 2019</h6>
           <p>Higher Secondary certificate(HSC)</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b>RRN Pilot Govt High School</b></h5>
+          <h5 class="w3-opacity"><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i><b><a href="https://www.sohopathi.com/kaliganj-r-r-n-pilot-govt-high-school/" style="color: navy;">RRN Pilot Govt High School</a> </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011 - 2017</h6>
           <p>Secondary School certificate(SSC)</p><br>
         </div>
@@ -109,27 +161,27 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <h3>Tools I Use For Coding</h3>
           <h4>Jetbrains Education__Microsoft Education__Github Education__Others </h4>
-          <a href="https://www.jetbrains.com/edu-products/download/#section=idea"><img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" style="width:10%; height: 10%;"</a>
+          <img src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" style="width:10%; height: 10%;">
           
-          <a href="https://www.jetbrains.com/edu-products/download/#section=pycharm-edu"><img src="https://lh3.googleusercontent.com/proxy/f1ILQ0PRUX3F1J_Jp7Xk3Bc8Ih7rknb8AQU8PqV3iQocP4aTcCRc0gZWQSvKC3DjJ3rr6ANoD1mJ6CThQiyhMcAy6qh3vX6ZuC2NPUyISFreuWPJ-9PzS3llNbkooRiw" style="width:13%; height: 20%;"</a>
+          <img src="https://lh3.googleusercontent.com/proxy/f1ILQ0PRUX3F1J_Jp7Xk3Bc8Ih7rknb8AQU8PqV3iQocP4aTcCRc0gZWQSvKC3DjJ3rr6ANoD1mJ6CThQiyhMcAy6qh3vX6ZuC2NPUyISFreuWPJ-9PzS3llNbkooRiw" style="width:13%; height: 20%;">
 
-          <a href="https://www.jetbrains.com/edu-products/download/#section=clion-cpp"><img src="https://blog.jetbrains.com/wp-content/uploads/2017/04/clion-CLion_400x400_Twitter_logo_white.png" style="width:10%; height: 10%;"</a>
+          <img src="https://blog.jetbrains.com/wp-content/uploads/2017/04/clion-CLion_400x400_Twitter_logo_white.png" style="width:10%; height: 10%;">
           
-          <a href="https://www.jetbrains.com/edu-products/download/#section=webstorm-js"><img src="https://pbs.twimg.com/profile_images/1206596574786269184/NKCyJIr8_400x400.jpg" style="width:10%; height: 10%;"</a>
+          <img src="https://pbs.twimg.com/profile_images/1206596574786269184/NKCyJIr8_400x400.jpg" style="width:10%; height: 10%;">
           
-          <a href="https://visualstudio.microsoft.com/free-developer-offers/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCGmV4LnJU8AxHneyG90tso1gAWIvqzZph7w&usqp=CAU"style="width:10%; height: 10%;"></a>-
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRCGmV4LnJU8AxHneyG90tso1gAWIvqzZph7w&usqp=CAU"style="width:10%; height: 10%;">
         
-          <a href="https://ide.atom.io/"><img src="https://3.bp.blogspot.com/-kwQy99fuCuM/W0w4MU2c8DI/AAAAAAAAAQA/EtXIXcxCCoop2NarVttKc-80UINynGrQQCLcBGAs/s1600/atom.jpg" style="width:10%; height: 10%;"</a>
+          <img src="https://3.bp.blogspot.com/-kwQy99fuCuM/W0w4MU2c8DI/AAAAAAAAAQA/EtXIXcxCCoop2NarVttKc-80UINynGrQQCLcBGAs/s1600/atom.jpg" style="width:10%; height: 10%;">
           
-          <a href="https://docs.github.com/en/desktop/getting-started-with-github-desktop/installing-github-desktop"><img src="https://www.macworld.co.uk/cmsdata/features/3639136/learn_git_mac_thumb800.jpg " style="width:12%; height: 12%;"</a>
+          <img src="https://www.macworld.co.uk/cmsdata/features/3639136/learn_git_mac_thumb800.jpg " style="width:12%; height: 12%;">
         
-          <a href="https://www.sublimetext.com/3"><img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" style="width: 6.5%; height: 6.5%;" </a>
+          <img src="https://avatars3.githubusercontent.com/u/684879?s=400&amp;v=4" style="width: 6.5%; height: 6.5%;" >
         
-          <a href="http://www.codeblocks.org/downloads"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdhJ0qtRWOUtr4GrA_fshFM3uE2jSM4bf7dw&usqp=CAU" style="width:8%; height: 8%;"</a>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdhJ0qtRWOUtr4GrA_fshFM3uE2jSM4bf7dw&usqp=CAU" style="width:8%; height: 8%;">
 
-          <a href="https://www.eclipse.org/downloads/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTICgBe9KTMkXqPfIJidBZQpKFG7Lve6UqooQ&usqp=CAU" style="width:10%; height: 10%;"</a>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTICgBe9KTMkXqPfIJidBZQpKFG7Lve6UqooQ&usqp=CAU" style="width:10%; height: 10%;">
           
-          <a href="https://notepad-plus-plus.org/downloads/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" style="width:8%; height: 8%;"</a>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" style="width:8%; height: 8%;">
         </div>
 
     </div>
@@ -161,7 +213,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
    <a href="https://www.linkedin.com/in/rakin-sad-aftab-5369081a9/" class="fa fa-linkedin w3-hover-opacity" style="background-color:navy;"></a>
    <a href="https://github.com/SAAD-X" class="fa fa-github w3-hover-opacity" style="background-color:navy;"></a>
    <a href="https://twitter.com/rakinsadaftab " class="fa fa-twitter-square w3-hover-opacity" style="background-color:navy;"></a>
-  <p>Powered by <a href="http://aftabhpy.ueuo.com/" class="w3-hover-opacity" target="_blank">laxcorp</a></p>
+  <p>Powered by <a href="https://saad-x.github.io/-/" class="w3-hover-opacity" target="_blank">The Laxcorp Corporation</a></p>
   <p>2020 © Rakin Sad Aftab</p>
 </footer>
 

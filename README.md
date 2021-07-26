@@ -5,8 +5,6 @@
 - ⚡ Fun fact  : I love to write code with background music.
 - ☯  Bad Things: I love to do nonsense stuffs.
 <br>
-
-<br>
 <div> 
   
 ### Connect with Me

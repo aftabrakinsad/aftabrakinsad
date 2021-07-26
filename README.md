@@ -1,5 +1,3 @@
-![519c2270779257 5bae709dac7d8](https://user-images.githubusercontent.com/66327542/109031349-d901cd00-76ee-11eb-92dc-715ff1234c5b.gif)
-<br>
 ## I'm a student!
 
 - 🌱 I’m currently learning everything 🤣

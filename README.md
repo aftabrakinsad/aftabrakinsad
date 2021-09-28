@@ -5,7 +5,8 @@
 - ⚡ Fun fact  : I love to write code with background music.
 - ☯  Bad Things: I love to do nonsense stuffs.
 <br>
-<div> 
+<div>
+ ![0f883e6f5db348671c1e26a7dfd2e5f3](https://user-images.githubusercontent.com/66327542/135063293-6fa8a396-fb04-40c8-971c-5cde808e7d99.gif)
   
 ### Connect with Me
 <a href="https://twitter.com/rakinsadaftab"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>

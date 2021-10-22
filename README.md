@@ -10,7 +10,7 @@
   
 ### Connect with Me
 <a href="https://twitter.com/aftabrakinsad"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
-<a href="https://medium.com/@rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://aftabrakinsad.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://www.facebook.com/aftabrakinsad/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/aftabrakinsad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="instagram"></a>
 <a href="https://www.linkedin.com/in/aftabrakinsad/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

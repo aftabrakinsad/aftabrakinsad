@@ -7,13 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/aftabrakinsad" target="blank"><img src="https://img.shields.io/twitter/follow/aftabrakinsad?logo=twitter&style=for-the-badge" alt="aftabrakinsad" /></a> </p>
 
-- 🔭 I’m currently working on [The Last Soldier](https://github.com/aftabrakinsad/Csharp-Project.git)
-
-- 🌱 I’m currently learning **Everything**
+- 🔭 Currently Working on [The Last Soldier](https://github.com/aftabrakinsad/Csharp-Project.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aftabrakinsad](https://github.com/aftabrakinsad)
-
-- 💬 Ask me about **Me**
 
 - 📫 Email **rakinsadaftab@gmail.com**
 

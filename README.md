@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/aftabrakinsad" target="blank"><img src="https://img.shields.io/twitter/follow/aftabrakinsad?logo=twitter&style=for-the-badge" alt="aftabrakinsad" /></a> </p>
 
-- 🔭 Currently Working on [The Last Soldier](https://github.com/aftabrakinsad/Csharp-Project.git)
+- Currently Working on [The Last Soldier](https://github.com/aftabrakinsad/Csharp-Project.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/aftabrakinsad](https://github.com/aftabrakinsad)
+- All of my projects are available at [https://github.com/aftabrakinsad](https://github.com/aftabrakinsad)
 
-- 📫 Email **rakinsadaftab@gmail.com**
+- Email **rakinsadaftab@gmail.com**
 
-- ⚡ Fun fact **I love pizza, not pasta**
+- Fun fact **I love pizza, not pasta**
 
 
 <h3 align="left">Connect with me:</h3>

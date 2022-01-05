@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakin Sad Aftab</h1>
 <h3 align="center">A non-passionate Computer Science Student</h3>
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aftabrakinsad" alt="aftabrakinsad" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/aftabrakinsad" target="blank"><img src="https://img.shields.io/twitter/follow/aftabrakinsad?logo=twitter&style=for-the-badge" alt="aftabrakinsad" /></a> </p>
-
 - Currently Working on [The Last Soldier](https://github.com/aftabrakinsad/Csharp-Project.git)
 
 - All of my projects are available at [https://github.com/aftabrakinsad](https://github.com/aftabrakinsad)

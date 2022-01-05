@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rakin Sad Aftab</h1>
 <h3 align="center">A non-passionate Computer Science Student</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aftabrakinsad&label=Profile%20views&color=0e75b6&style=flat" alt="aftabrakinsad" /> </p>
+
 <h3 align="left">Social Links</h3>
 <p align="left">
 <a href="https://twitter.com/aftabrakinsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aftabrakinsad" height="30" width="40" /></a>
@@ -21,4 +23,3 @@
   </tr>
 </table>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabrakinsad&label=Profile%20views&color=0e75b6&style=flat" alt="aftabrakinsad" /> </p>

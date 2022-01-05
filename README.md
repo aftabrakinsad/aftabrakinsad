@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakin Sad Aftab</h1>
 <h3 align="center">A non-passionate Computer Science Student</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aftabrakinsad&label=Profile%20views&color=0e75b6&style=flat" alt="aftabrakinsad" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aftabrakinsad&label=Profile%20views&color=green&style=flat" alt="aftabrakinsad" /> </p>
 
 <h3 align="left">Social Links</h3>
 <p align="left">

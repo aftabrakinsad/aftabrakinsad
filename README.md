@@ -21,3 +21,4 @@
   </tr>
 </table>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftabrakinsad&label=Profile%20views&color=0e75b6&style=flat" alt="aftabrakinsad" /> </p>

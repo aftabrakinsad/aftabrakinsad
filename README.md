@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Rakin Sad Aftab</h1>
-<h3 align="center">A non-passionate Computer Science Student</h3>
+<h3 align="center"><i>A non-passionate Computer Science Student</i></h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aftabrakinsad&label=Profile%20views&color=blue&style=flat" alt="aftabrakinsad" /> </p>
 

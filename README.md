@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakin Sad Aftab</h1>
 <h3 align="center">A non-passionate Computer Science Student</h3>
 
-- Currently Working on [The Last Soldier](https://github.com/aftabrakinsad/Csharp-Project.git)
-
-- All of my projects are available at [https://github.com/aftabrakinsad](https://github.com/aftabrakinsad)
-
-- Email **rakinsadaftab@gmail.com**
-
-- Fun fact **I love pizza, not pasta**
-
-
 <h3 align="left">Social Links</h3>
 <p align="left">
 <a href="https://twitter.com/aftabrakinsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aftabrakinsad" height="30" width="40" /></a>
@@ -18,11 +9,6 @@
 <a href="https://linkedin.com/in/aftabrakinsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aftabrakinsad" height="30" width="40" /></a>
 <a href="https://medium.com/@rakinsadaftab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakinsadaftab" height="30" width="40" /></a>
   
-<h3 align="left">Let's Code Together</h3>
-<a href="https://codesandbox.com/aftabrakinsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aftabrakinsad" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aftabrakinsad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aftabrakinsad" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aftabrakinsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aftabrakinsad" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

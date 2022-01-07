@@ -24,6 +24,6 @@
 </table>
 </p>
 
-<p align="right">
+<p align="left">
 <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>
 </p>

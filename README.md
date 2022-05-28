@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aftabrakinsad&show_icons=true&theme=dark" alt="aftabrakinsad" /></td>
-    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabrakinsad&show_icons=true&theme=onedark&locale=en&layout=compact"></td>
+    <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs?username=aftabrakinsad&show_icons=true&theme=onedark&locale=en&layout=compact&theme=dark"></td>
   </tr>
 </table>
 </p>

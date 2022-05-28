@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Rakin+Sad+Aftab!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+A+non-passionate+Computer+Science+Student)](https://git.io/typing-svg)
-<h3 align="center"><i style="color=blue;">A non-passionate Computer Science Student</i></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Rakin+Sad+Aftab!)](https://git.io/typing-svg) </br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+non-passionate+Computer+Science+Student)](https://git.io/typing-svg)
 
 <p align="center">
 <table>

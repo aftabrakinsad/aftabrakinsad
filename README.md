@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Rakin+Sad+Aftab)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Rakin+Sad+Aftab+!)](https://git.io/typing-svg)
 <h3 align="center"><i style="color=blue;">A non-passionate Computer Science Student</i></h3>
 
 <p align="center">

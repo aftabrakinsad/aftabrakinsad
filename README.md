@@ -4,7 +4,7 @@
 <p align="center">
 <table>
   <colgroup>
-    <col span="1" style="background-color:aquamarine;">
+    <col span="1" style="background-color:blue;">
 </colgroup>
   <tr>
     <th>Profile stats</th>

@@ -4,7 +4,7 @@
 <p align="center">
 <table>
   <tr>
-    <th>Profile stats</th>
+    <th style="color: blue;">Profile stats</th>
     <th>Language Contribution</th>
   </tr>
   <tr>

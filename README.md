@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Rakin+Sad+Aftab!)](https://git.io/typing-svg)</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F7BD&lines=Hi+🫡+I+am+Rakin+Sad+Aftab)](https://git.io/typing-svg)</br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+non-passionate+CS+Student😆)](https://git.io/typing-svg)
 
 <p align="center">

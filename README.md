@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=31F7BD&lines=Hi+🫡+I+am+Rakin+Sad+Aftab)](https://git.io/typing-svg)</br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+non-passionate+CS+Student😆)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=31F7BD&lines=Hi+🫡;I+am+Rakin+Sad+Aftab">
+  </a>
+</h1>
 
 <p align="center">
 <table>

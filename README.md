@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+//<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <p align="right">

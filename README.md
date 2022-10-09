@@ -17,7 +17,9 @@
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
-<table align="middle">
+
+<p align="middle">
+<table>
 <tr>
 <td>
 <h3>Tools I Using</h3>
@@ -48,6 +50,7 @@ hight="30px"/>
 </td>
 </tr>
 </table>
+</p>
 
 <p align="middle">
 <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>

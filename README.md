@@ -17,11 +17,11 @@
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
-<table>
+<table align="middle">
 <tr>
 <td>
 <h3>Tools I Using</h3>
-<p align="">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" hight="30px"/>
@@ -41,7 +41,7 @@ hight="30px"/>
 <tr>
 <td>
 <h3>Tools I Already Used</h3>
-<p align="">
+<p align="left">
 <img src="https://devicon-website.vercel.app/api/oracle/original.svg" width="50px" hight="50px"/>
 <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="50px" hight="50px"/>
 </p>

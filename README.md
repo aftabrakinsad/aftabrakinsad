@@ -16,10 +16,11 @@
   </tr>
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
+</p>
 <h4>Tools I Use</h4>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
-
 </p>
 
 <p align="middle">

@@ -18,7 +18,7 @@
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 <h4>Tools I Use</h4>
-<i class="devicon-git-plain colored"></i>
+<i class="devicon-git-plain colored">Xd</i>
 </p>
 
 <p align="middle">

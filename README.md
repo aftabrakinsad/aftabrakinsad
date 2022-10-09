@@ -14,8 +14,8 @@
     <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=aftabrakinsad&show_icons=true&theme=tokyonight" alt="aftabrakinsad"/></td>
     <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabrakinsad&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
   </tr>
-</table>
-/*<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>*/
+</table>s
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
 <p align="middle">

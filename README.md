@@ -28,7 +28,7 @@ hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" hight="30px"/>
 <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="50px" hight="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" hight="50px"/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" hight="40px"/
 >
 <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50px" hight="50px"/>
 <p>

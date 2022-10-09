@@ -17,19 +17,25 @@
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
-<h4>Tools I Using</h4>
+
+<h3>Tools I Using</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" hight="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" hight="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30px" hight="30px"/
->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" hight="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30px" hight="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="30px" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30px" 
 hight="30px"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" hight="30px"/>
+<img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="30px" hight="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30px" hight="30px"/
+>
+<img src="https://devicon-website.vercel.app/api/docker/original.svg" width="30px" hight="30px"/>
+<p>
+<p align="left">
+<h3>Tools I Already Used
+<img src="https://devicon-website.vercel.app/api/oracle/original.svg" width="30px" hight="30px"/>
+<img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="30px" hight="30px"/>
 </p>
 
 <p align="middle">

@@ -17,7 +17,9 @@
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
-
+<table>
+<tr>
+<td>
 <h3>Tools I Using</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" hight="30px"/>
@@ -26,17 +28,26 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30px" 
 hight="30px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" hight="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" 
+hight="30px"/>
 <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="50px" hight="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" hight="40px"/
 >
 <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50px" hight="50px"/>
 <p>
+</td>
+</tr>
+
+<tr>
+<td>
 <h3>Tools I Already Used</h3>
 <p align="left">
 <img src="https://devicon-website.vercel.app/api/oracle/original.svg" width="50px" hight="50px"/>
 <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="50px" hight="50px"/>
 </p>
+</td>
+</tr>
+</table>
 
 <p align="middle">
 <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>

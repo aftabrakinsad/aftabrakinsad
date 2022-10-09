@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;I+am+RAKIN+SAD+AFTAB;&center=true&size=30">
@@ -17,7 +18,7 @@
 </table>
 <!--<img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 <h4>Tools I Use</h4>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-git-plain colored"></i>
 </p>
 
 <p align="middle">

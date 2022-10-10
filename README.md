@@ -33,6 +33,10 @@
           <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" width="50px" hight="50px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40px" hight="40px"/>
           <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" hight="50px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" hight="50px"/>
         <p>
     </td>
   </tr>
@@ -43,6 +47,15 @@
     <p align="left">
       <img src="https://devicon-website.vercel.app/api/oracle/original.svg" width="50px" hight="50px"/>
       <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="50px" hight="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50px" hight="50px"/>
     </p>
     </td>
   </tr>

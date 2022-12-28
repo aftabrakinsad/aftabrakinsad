@@ -25,7 +25,7 @@
       <h3>Current Using Tools</h3>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" hight="30px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" hight="30px"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" hight="30px"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30px" hight="30px" color="white"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="30px" hight="30px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" hight="30px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30px" hight="30px"/>
@@ -38,7 +38,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" hight="50px"/>
     </td>
   </tr>
-  
+
   <tr>
     <td>
     <h3>Tools, I Already Used</h3>

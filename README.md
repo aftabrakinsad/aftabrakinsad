@@ -17,7 +17,6 @@
 </table>-->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
-    <a href="https://github.com/aftabrakinsad/aftabrakinsad/actions"> <img alt="Tests Passing" src="https://github.com/aftabrakinsad/aftabrakinsad/workflows/Test/badge.svg" /></a>
   <a href="https://github.com/aftabrakinsad/aftabrakinsad/actions"><img alt="Tests Passing" src="https://github.com/aftabrakinsad/aftabrakinsad/workflows/Test/badge.svg"></a>
 </p>
 

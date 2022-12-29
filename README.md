@@ -16,6 +16,22 @@
   </tr>
 </table>-->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+
+    <a href="https://github.com/aftabrakinsad/aftabrakinsad/actions">
+      <img alt="Tests Passing" src="https://github.com/aftabrakinsad/aftabrakinsad/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/aftabrakinsad/aftabrakinsad/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/aftabrakinsad/aftabrakinsad" />
+    </a>
+    <a href="https://codecov.io/gh/aftabrakinsad/aftabrakinsad">
+      <img src="https://codecov.io/gh/aftabrakinsad/aftabrakinsad/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/aftabrakinsad/aftabrakinsad/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/aftabrakinsad/aftabrakinsad?color=0088ff" />
+    </a>
+    <a href="https://github.com/aftabrakinsad/aftabrakinsad/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/aftabrakinsad/aftabrakinsad?color=0088ff" />
+    </a>
 </p>
 
 <p align="middle">

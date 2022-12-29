@@ -18,6 +18,7 @@
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=aftabrakinsad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
     <a href="https://github.com/aftabrakinsad/aftabrakinsad/actions"> <img alt="Tests Passing" src="https://github.com/aftabrakinsad/aftabrakinsad/workflows/Test/badge.svg" /></a>
+  <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>
 </p>
 
 <p align="middle">

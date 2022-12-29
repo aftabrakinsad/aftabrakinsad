@@ -19,7 +19,7 @@
 </p>
 
 <p align="middle">
-<table>
+<table align="middle">
   <tr>
     <td>
       <h3>Current Using Tools</h3>

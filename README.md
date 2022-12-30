@@ -57,9 +57,9 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px" hight="50px"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px" hight="50px"/>
     </td>
-  </tr>
+  </tr>-->
 
-  <tr>
+  <<tr>
     <td>
     <h3>Tools, I Already Used</h3>
     <p align="center">

@@ -36,8 +36,8 @@
 
 </p>
 
-<p align="middle">
-<table align="middle">
+<p align="center">
+<table align="center">
   <tr>
     <td>
       <h3>Current Using Tools</h3>
@@ -60,7 +60,7 @@
   <tr>
     <td>
     <h3>Tools, I Already Used</h3>
-    <p align="left">
+    <p align="center">
       <img src="https://devicon-website.vercel.app/api/oracle/original.svg" width="50px" hight="50px"/>
       <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="50px" hight="50px"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="50px" hight="50px"/>
@@ -78,6 +78,6 @@
 </table>
 </p>
 
-<p align="middle">
+<p align="center">
 <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>
 </p>

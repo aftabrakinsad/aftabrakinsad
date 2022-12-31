@@ -1,4 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=aftabrakinsad.aftabrakinsad)
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{aftabrakinsad}1212%2Fhit-counter)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">

@@ -38,7 +38,6 @@
     <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabrakinsad&langs_count=10&theme=tokyonight&layout=compact&hide=html"></td>
   </tr>
 </table>
-
 </p>
 
 <p align="center">
@@ -84,5 +83,5 @@
 </p>
 
 <p align="center">
-<a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?style=flat&logo=gmail&color=blue&theme=blue"></a>
+  <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?  style=flat&logo=gmail&color=blue&theme=blue"></a>
 </p>

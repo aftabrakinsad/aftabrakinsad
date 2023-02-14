@@ -1,9 +1,6 @@
-![](https://visitor-badge.glitch.me/badge?page_id=aftabrakinsad.aftabrakinsad)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aftabrakinsad&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{aftabrakinsad}1212%2Fhit-counter)
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;I+am+RAKIN+SAD+AFTAB;&center=true&size=30">

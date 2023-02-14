@@ -1,4 +1,5 @@
-![](https://visitor-badge.glitch.me/badge?page_id=aftabrakinsad.aftabrakinsad)
+<!--![](https://visitor-badge.glitch.me/badge?page_id=aftabrakinsad.aftabrakinsad)-->
+[![](https://visitcount.itsvg.in/api?id=aftabrakinsad&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{aftabrakinsad}1212%2Fhit-counter)
 
 <h1 align="center">

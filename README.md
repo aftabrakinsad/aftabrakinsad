@@ -83,6 +83,6 @@
 </p>
 
 <p align="center">  
-  <a href="mailto:rakinsadaftab@gmail.com"><img alt="Gamil" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50px" hight="50px"></a>
+  <a href="mailto:rakinsadaftab@gmail.com"><img alt="Gamil" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail.svg" width="50px" hight="50px"></a>
   <a href="https://www.linkedin.com/in/aftabrakinsad/"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" hight="50px"></a>
 </p>

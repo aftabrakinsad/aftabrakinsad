@@ -20,6 +20,9 @@
     <a href="https://github.com/aftabrakinsad/aftabrakinsad/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/aftabrakinsad/aftabrakinsad?label=Issues&color=0088ff&logo=github" />
     </a>
+    <a href="https://github.com/aftabrakinsad/aftabrakinsad/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/aftabrakinsad/aftabrakinsad?label=Pull Requests&color=0088ff&logo=github" />
+    </a>
 </p>
 
 <p align="center">

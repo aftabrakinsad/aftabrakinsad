@@ -1,6 +1,6 @@
-<a href="https://visitcount.itsvg.in">
+<!--<a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aftabrakinsad&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
+</a>-->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😁;I+am+RAKIN+SAD+AFTAB;&center=true&size=30">
@@ -83,6 +83,6 @@
 </p>
 
 <p align="center">  
-  <a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?   style=flat&logo=gmail&color=blue&theme=blue"></a>
+  <!--<a href="mailto:rakinsadaftab@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rakinsadaftab@gmail.com-red?   style=flat&logo=gmail&color=blue&theme=blue"></a>-->
   <a href="https://www.linkedin.com/in/aftabrakinsad/"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" hight="50px"></a>
 </p>

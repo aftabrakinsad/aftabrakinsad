@@ -31,15 +31,7 @@
 
 ```yaml
 name:     Rakin Sad Aftab
-role:     Software Developer
 location: 🌍 Earth
-status:   Always building something new
-
-passions:
-  - Clean, efficient code
-  - Open source collaboration
-  - Hardware + software fusion (Arduino 🤖)
-  - Containerized architectures (Docker 🐳)
 
 currently:
   - 🔭 Working on exciting projects
@@ -77,18 +69,6 @@ contact:  rakinsadaftab@gmail.com
     </td>
   </tr>
 </table>
-
-</div>
-
----
-
-<!-- ══════════════════ STREAK ══════════════════ -->
-
-<div align="center">
-
-### 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=aftabrakinsad&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 

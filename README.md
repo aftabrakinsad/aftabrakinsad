@@ -62,14 +62,17 @@ contact:  rakinsadaftab@gmail.com
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=aftabrakinsad&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa" alt="Profile Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aftabrakinsad&theme=tokyonight" alt="Profile Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftabrakinsad&langs_count=8&theme=tokyonight&layout=compact&border_radius=12&border_color=7c3aed&title_color=a78bfa&hide=html" alt="Top Languages"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aftabrakinsad&theme=tokyonight" alt="Repos Per Language"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aftabrakinsad&theme=tokyonight" alt="Most Commit Language"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="3" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabrakinsad&theme=tokyonight" alt="Graph View" width="100%"/>
     </td>
   </tr>
@@ -129,36 +132,6 @@ contact:  rakinsadaftab@gmail.com
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
-
-</div>
-
----
-
-<!-- ══════════════════ ACTIVITY GRAPH ══════════════════ -->
-
-<div align="center">
-
-### 📈 Contribution Activity
-
-[![Rakin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aftabrakinsad&theme=tokyo-night&border_radius=12&hide_border=false&border_color=7c3aed&line=a78bfa&point=ffffff&area=true&area_color=6d28d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ══════════════════ SNAKE ══════════════════ -->
-
-<div align="center">
-
-### 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aftabrakinsad/aftabrakinsad/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aftabrakinsad/aftabrakinsad/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aftabrakinsad/aftabrakinsad/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> ⚙️ **Tip:** Enable the snake animation by adding a [GitHub Actions workflow](https://github.com/Platane/snk#usage) to your repo!
 
 </div>
 
